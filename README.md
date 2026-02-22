@@ -1,4 +1,4 @@
-# Jonathan Challenge – Historical Backdoor Attack Simulation
+# Jonathan Challenge - Historical Backdoor Attack Simulation
 
 ## Background
 
@@ -24,7 +24,7 @@ This challenge recreates a simplified scenario and introduces several core cyber
 Follow these steps to set up the target machine:
 
 1. Install VMware Workstation  
-2. Download the `.ova` file of the target machine [here](https://tryhackme-vm-upload.s3.eu-west-1.amazonaws.com/target-1770044231675.ova?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA2YR2KKQMWLXEMXW4%2F20260222%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260222T110047Z&X-Amz-Expires=120&X-Amz-Signature=20eb10de6f7ffdd7af22469c91663656b2750c0781630a0aed83f24842a30a61&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+2. Download the `.ova` file of the target machine [here]()
 3. Open VMware Workstation and import the `.ova` file  
 4. Start the machine  
 5. Launch the exploit using your preferred attack box  
