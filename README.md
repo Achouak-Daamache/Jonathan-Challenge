@@ -32,4 +32,4 @@ Follow these steps to set up the target machine:
 ---
 
 **Note:**
-If you prefer the guided mode over discovery mode, you can access Jonathan's private room at **TryHackMe** [here](https://tryhackme.com/room/jonathan) where you can compete with others, gain extra THM points and share your write-up
+If you prefer guided mode over discovery mode, you can access Jonathan's private room at **TryHackMe** [here](https://tryhackme.com/room/jonathan) with all resources you need, there you can compete with others, gain extra THM points and share your write-up.
